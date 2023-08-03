@@ -1,0 +1,2 @@
+# dice-game
+javascript project
